@@ -8,11 +8,11 @@ App provides detailed view in Dialogs, filtering of output, and dynamically load
 -----------------------------------------
 Screenshots:
 
- ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-01.png "screenshot")
- ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-02.png "screenshot")
- ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-03.png "screenshot")
- ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-04.png "screenshot")
- ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-05.png "screenshot")
- ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-06.png "screenshot")
- ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-07.png "screenshot")
+ ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-01.jpg "screenshot")
+ ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-02.jpg "screenshot")
+ ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-03.jpg "screenshot")
+ ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-04.jpg "screenshot")
+ ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-05.jpg "screenshot")
+ ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-06.jpg "screenshot")
+ ![screenshot](https://raw.githubusercontent.com/Vitaliy-B/Students-List/master/screenshots/2018-07.jpg "screenshot")
 
