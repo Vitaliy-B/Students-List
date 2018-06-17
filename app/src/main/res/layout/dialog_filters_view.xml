@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/llMain">
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerCourse"
+        android:entries="@array/str_ar_spinner_course"
+        style="@style/Base.Widget.AppCompat.Spinner"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+         />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:id="@+id/etMark"
+        android:hint="@string/et_mark_hint"
+        style="@style/Widget.AppCompat.EditText"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        />
+</LinearLayout>

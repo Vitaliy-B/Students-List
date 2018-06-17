@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Students List</string>
+
+    <string name="dlg_progress_title">Loading data</string>
+    <string name="dlg_progress_msg">Loading JSON data and updating database.. \nRecords processed : </string>
+
+    <string name="tv_text">Text</string>
+    <string name="et_mark_hint">Mark</string>
+    <string name="mm_filter">Filter</string>
+    <string-array name="str_ar_spinner_course">
+        <item>Course-0</item>
+        <item>Course-1</item>
+        <item>Course-2</item>
+        <item>Course-3</item>
+    </string-array>
+
+    <string name="dlg_courses_title">Courses</string>
+    <string name="dlg_filters_title">Filters</string>
+    <string name="dlg_chooser_title">Download data?</string>
+    <string name="dlg_chooser_msg">Download JSON data from server or use local SQLite DataBase?</string>
+    <string name="dlg_btn_dload">Download</string>
+    <string name="dlg_btn_use_local">Use local</string>
+</resources>

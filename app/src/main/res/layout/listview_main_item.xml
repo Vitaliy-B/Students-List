@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:id="@+id/llMain">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_menu_my_calendar"
+        android:id="@+id/ivLeft"
+        android:layout_margin="20dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/llText"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/llName"
+            >
+
+            <TextView
+                android:text="@string/tv_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvFName"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:layout_marginRight="10dp"
+                android:layout_marginEnd="10dp"
+                />
+
+            <TextView
+                android:text="@string/tv_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/tvLName"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                />
+
+        </LinearLayout>
+
+        <TextView
+            android:text="@string/tv_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvBirthday" />
+    </LinearLayout>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_menu_info_details"
+        android:id="@+id/infoLnk"
+        android:clickable="true"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:onClick="itemClick"
+        />
+</LinearLayout>
