@@ -1,6 +1,6 @@
 # Students List
 -----------------------------------------
-App that connects to RESTfull API web server, loads JSON data, parses it and updtes SQLite DataBase.
+App that connects to RESTfull API web server, loads JSON data, parses it and updates SQLite DataBase.
 Then data from DB is loaded using Loaders and displayed in Views using Adapters.
 Subject area is students, their courses and marks.
 App provides detailed view in Dialogs, filtering of output, and dynamically loaded list during scrolling.
